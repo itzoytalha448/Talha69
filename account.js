@@ -1,22 +1,20 @@
-// =======================================================
-// WEBSITE NAME (NICKNAME)
-// =======================================================
-var website_name = "TALHA;
+
+var website_name = "TALHA FF TOP UP; 
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "https://t.me/talha488";
+var telegram_channel_link = "https://t.me/@talha44880";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "https://t.me/talha488";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = "https://youtube.com/@talhafftopup?si=pbTEC6Jtr5EZPkzZ ";
 
 // =======================================================
 // NOTIFICATION TEXT
