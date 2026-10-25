@@ -1,10 +1,15 @@
 
 var website_name = "TALHA FF TOP UP; 
 
-// =======================================================
-// TELEGRAM CHANNEL LINK
-// =======================================================
-var telegram_channel_link = "https://t.me/@talha44880";
+
+
+
+
+
+
+
+
+var telegram_channel_link = "https://taligarm.com@talha44880";
 
 // =======================================================
 // TELEGRAM GROUP LINK
